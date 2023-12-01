@@ -5,5 +5,10 @@ public class Main {
 
         System.out.printf("Hello and welcome!");
         int a = 0;
+        int b = 0;
+
     }
+}
+class Car {
+    String car;
 }
